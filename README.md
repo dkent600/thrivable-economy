@@ -1,5 +1,5 @@
 # Thrivable Economy
-A Refi economic system that emerges regenerative impacts
+A Refi economic system that emerges regenerative impacts, initially to target the food economy in the Machuca River Valley, a bioregion in Costa Rica.
 
 ## Hardhat
 
