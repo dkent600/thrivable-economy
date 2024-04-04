@@ -30,3 +30,13 @@ Using it to facilitate writing quality solidity.
 ### Hardhat Chai Matchers
 
 Using it for its Ethereum-specific enhancements to the Chai test assertion library.
+
+## Scripts
+
+`npm run clean` -- install or reinstall
+
+`npm run compile` -- compile the contracts
+
+`npm run test` -- test the contracts against the local hardhat node
+
+`npm run deploy` -- deploy the contract the local hardhat node and display the resulting contract address
