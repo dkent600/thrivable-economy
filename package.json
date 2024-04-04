@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npx hardhat test",
     "compile": "npx hardhat compile",
-    "clean": "npx -y rimraf node_modules package-lock.json && npm i"
+    "clean": "npx hardhat clean && npx -y rimraf node_modules package-lock.json && npm i"
   },
   "keywords": [
     "refi",
