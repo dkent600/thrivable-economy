@@ -31,7 +31,16 @@ Using it to facilitate writing quality solidity.
 
 Using it for its Ethereum-specific enhancements to the Chai test assertion library.
 
-## Scripts
+## Getting Started
+To obtain and install everything:
+
+Clone the Git repository from https://github.com/dkent600/thrivable-economy.git.
+
+ Make sure you have the latest version of node and npm.
+
+ Run `npm run install` to install everything.
+
+## Testing and Deploying
 
 `npm run clean` -- install or reinstall
 
@@ -39,4 +48,8 @@ Using it for its Ethereum-specific enhancements to the Chai test assertion libra
 
 `npm run test` -- test the contracts against the local hardhat node
 
-`npm run deploy` -- deploy the contract the local hardhat node and display the resulting contract address
+`npm run deploy` -- deploy the contracts to the local hardhat node and display the resulting contract addresses
+
+## More Information and Getting Involved
+
+To see more about the status of the project, see the Telegram chat at:  https://t.me/thrivableeconomy.
