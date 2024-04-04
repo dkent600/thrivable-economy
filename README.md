@@ -1,6 +1,8 @@
 # Thrivable Economy
 A Refi economic system that emerges regenerative impacts, initially to target the food economy in the Machuca River Valley, a bioregion in Costa Rica.
 
+I have created this project on a Windows 11 machine using VSCode and Powershell.  I haven't tried installing it and running the scripts in WSL or on a Linux machine.
+
 ## Hardhat
 
 Comparing Hardhat to Remix and Foundry, Hardhat is an easier integration with things like Typescript, Ethers.js (or Viem), VSCode and Windows, while being at a professional level and helping to stay close to Web3.
