@@ -3,10 +3,15 @@
   "version": "1.0.0",
   "description": "Refi economic system that emerges regenerative impacts",
   "main": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dkent600/thrivable-economy"
+  },
   "scripts": {
     "test": "npx hardhat test",
     "compile": "npx hardhat compile",
-    "clean": "npx hardhat clean && npx -y rimraf node_modules package-lock.json && npm i"
+    "clean": "npx hardhat clean && npx -y rimraf node_modules package-lock.json && npm i",
+    "deploy": "npx hardhat ignition deploy ./ignition/modules/Lock.ts"
   },
   "keywords": [
     "refi",
