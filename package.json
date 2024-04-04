@@ -5,7 +5,8 @@
   "main": "",
   "scripts": {
     "test": "npx hardhat test",
-    "compile": "npx hardhat compile"
+    "compile": "npx hardhat compile",
+    "clean": "npx -y rimraf node_modules package-lock.json && npm i"
   },
   "keywords": [
     "refi",
@@ -19,5 +20,8 @@
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox-viem": "^3.0.0",
     "hardhat": "^2.22.2"
+  },
+  "dependencies": {
+    "rimraf": "^5.0.5"
   }
 }
