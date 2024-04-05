@@ -11,7 +11,7 @@ https://hardhat.org/
 
 ### Typescript
 
-Using the TYpescript version of Hardhat.
+Using the Typescript version of Hardhat.
 
 ### Viem
 
