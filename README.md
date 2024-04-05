@@ -19,17 +19,17 @@ Small and cleaner version of ethers.js, used by Hardhat.
 
 https://viem.sh/
 
-### Hardhat Ignition
+### Visual Studio Code
 
-Using it for configuring deployments.
+Uses the VSCode Hardhat Extension to facilitate writing quality solidity.
 
-### Hardhat Extension for Visual Studio Code
+### Deployments
 
-Using it to facilitate writing quality solidity.
+Uses Hardhat Ignition for configuring deployments.
 
-### Hardhat Chai Matchers
+### Testing
 
-Using it for its Ethereum-specific enhancements to the Chai test assertion library.
+Uses Mocha with Hardhat Chai Matchers for the latter's Ethereum-specific enhancements to the Chai test assertion library.
 
 ## Getting Started
 To obtain and install everything:
